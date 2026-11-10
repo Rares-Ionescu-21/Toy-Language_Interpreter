@@ -6,3 +6,11 @@ build
 
 # Ignore Kotlin plugin data
 .kotlin
+
+
+# Ignore IDE files
+.idea/
+*.iml
+out/
+.vscode/
+.DS_Store
